@@ -1,2 +1,2 @@
 # MlOps
-Mettre en oeuvre d'une solution MlOps
+Mise en œuvre d'une solution ML-ops
